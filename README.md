@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Felippe
-Me chamo Felippe, tenho 32 anos, trabalho na area de tecnologia desde 2011, estou em fase de migração de area, saindo de redes/infra para desenvolvimento de software, atualmente estou cursando o programa de Desevolvimento fullstack na Imagine school. Estou usando o git para postar projetos de estudo, evoluindo e ganhando conhecimendo cada dia um pouco mais😁.
+Me chamo Felippe, tenho 33 anos, trabalho na area de tecnologia desde 2011, estou em fase de migração de area, saindo de redes/infra para desenvolvimento de software, atualmente estou cursando o programa de Desevolvimento fullstack na Imagine school. Estou usando o git para postar projetos de estudo, evoluindo e ganhando conhecimendo cada dia um pouco mais😁.
 
-My name is Felippe, I'm 32 years old, I've been working in the technology area since 2011, I'm in the process of migrating to an area, leaving computer networks and infrastructure for software development, I'm currently studying the Fullstack Development program at Imagine school. I'm using git to post study projects, evolving and gaining knowledge every day a little more😁.
+My name is Felippe, I'm 33 years old, I've been working in the technology area since 2011, I'm in the process of migrating to an area, leaving computer networks and infrastructure for software development, I'm currently studying the Fullstack Development program at Imagine school. I'm using git to post study projects, evolving and gaining knowledge every day a little more😁.
 
  <div>
    <a href="https://github.com/Felippeks">
